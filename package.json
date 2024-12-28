@@ -1,0 +1,31 @@
+{
+  "name": "api-students-js",
+  "version": "1.0.0",
+  "description": "For UTEC",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al3xisvg/api-students-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "utec",
+    "cloud"
+  ],
+  "author": "al3xisvg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al3xisvg/api-students-js/issues"
+  },
+  "homepage": "https://github.com/al3xisvg/api-students-js#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.7"
+  }
+}
